@@ -22,3 +22,5 @@ Tratamento de erros e exceções em Python (try/except).
 Modularização de código através de funções.
 
 Transformação de dados brutos em insights visuais.
+git clone https://github.com/uwseigerr/analisador-gastos-python.git
+cd analisador-gastos-python
